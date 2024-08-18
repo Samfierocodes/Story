@@ -1,1 +1,6 @@
-Story of padi, story oh, story story oh, story ohh ohh ohh
+Once upon a time, in a small town, there lived a curious young coder named Sam Fiero. 
+He had always been fascinated by how machines worked, so one day, he decided to start programming. 
+Just with a laptop and a dream, he spent hours in front of the screen, learning the ins and outs of web app development 
+The first time he saw his code come to life — printing “Hello, World!” on his screen.
+He felt a spark of magic, realizing he could build anything with just a few lines of logic.
+

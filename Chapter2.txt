@@ -1,1 +1,7 @@
-Ebi pami ohh, no pain no gain you con feel pain no gan wetin you gain
+As days turned into months, Sam’s skills grew sharper. 
+He began automating everyday tasks, solving puzzles, and even building small applications that his friends loved. 
+But then came a challenge that seemed too big to handle: building his first fully functioning web app. 
+Countless errors and bugs stood in his way, and the frustration began to weigh him down. 
+Despite the setbacks, Sam didn’t give up. 
+He believed in the power of persistence and kept tweaking his code, debugging late into the night.
+
